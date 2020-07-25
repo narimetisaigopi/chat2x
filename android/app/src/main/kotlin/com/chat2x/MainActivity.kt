@@ -1,4 +1,4 @@
-package in.chat2x
+package com.chat2x
 
 import io.flutter.embedding.android.FlutterActivity
 

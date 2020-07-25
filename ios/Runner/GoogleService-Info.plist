@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>572371180246-c5stphs0ev4d79187d7rgnjlibqcl7dr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.572371180246-c5stphs0ev4d79187d7rgnjlibqcl7dr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>572371180246-5nl4t84qpbb871oq6uujhpv708tbra56.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQPN44OXi1qo1cD9EcwYKFgcEnZIfyER4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>572371180246</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chat2x</string>
+	<key>PROJECT_ID</key>
+	<string>my-statuses</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-statuses.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:572371180246:ios:960e8c3eec3d3d0808c777</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-statuses.firebaseio.com</string>
+</dict>
+</plist>
